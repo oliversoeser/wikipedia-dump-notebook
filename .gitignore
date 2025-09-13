@@ -208,3 +208,9 @@ __marimo__/
 
 # Wikipedia Dumps
 *.bz2
+
+# Results
+/out
+
+# MacOS
+.DS_Store
